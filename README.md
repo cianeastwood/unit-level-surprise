@@ -1,2 +1,4 @@
-# Unit-level surprise in neural networks.
-Code for our paper "Unit-level surprise in neural networks" -- **coming soon!**
+# Unit-level surprise in neural networks
+This is the repo for our paper [Unit-level surprise in neural networks](https://openreview.net/forum?id=N5lxfjtUPOS), which appeared at the [NeurIPS 2021 Workshop: I (Still) Can’t Believe It’s Not Better!](https://i-cant-believe-its-not-better.github.io/neurips2021/), where it won the [Didactic Paper Award](https://i-cant-believe-its-not-better.github.io/neurips2021/awards/).
+
+The experiments were produced using some of the code in [this repo](https://github.com/cianeastwood/bufr). In particular, Figure 2 was produced using [vis_per_unit_scores.py](https://github.com/cianeastwood/bufr/blob/main/analysis/vis_per_unit_scores.py). Please reach out if you would like more information (e.g. run scripts) on how to recreate this figure, or any other components!
